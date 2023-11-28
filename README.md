@@ -5,7 +5,7 @@ This repository contains my solutions to the Dynamic Programming problems on the
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Problem List]([problem-list](https://cses.fi/problemset/))
+- [Problem List](https://cses.fi/problemset/)
 
 ## Introduction
 
