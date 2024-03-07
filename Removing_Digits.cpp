@@ -28,7 +28,7 @@ int dfs(int n,int count,v32& dp) {
         maxi = max(maxi, x % 10);
         x /= 10;
     }
-    return dfs(n - maxi,1+count,dp);
+    return dp[n] = dfs(n - maxi,1+count,dp);
 }
 
 void solve() {
